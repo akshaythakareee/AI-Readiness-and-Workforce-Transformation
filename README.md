@@ -1,4 +1,3 @@
-# 🧠 Workforce AI Automation & Readiness Analysis
 
 <div align="center">
 
